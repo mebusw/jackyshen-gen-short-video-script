@@ -11,6 +11,15 @@ email: mebusw@gmail.com
 
 Generate platform-optimized short video scripts that capture attention, deliver value quickly, and encourage engagement.
 
+## 什么样内容，容易爆发流量?
+1. 观众想纠正你
+2. 观众想看结果
+3. 观众想看翻车
+4. 观众想辨真伪
+5. 观众想给你支招
+6. 观众想带入自己
+7. 观众想证明自己
+
 ## Script Structure by Duration
 
 ### Ultra-Short (15-30s)
