@@ -1,7 +1,7 @@
 ---
 name: jackyshen-gen-short-video-script
 description: Generate engaging short video scripts (15s-3min) for social media platforms like WeChat Channels, Douyin, Xiaohongshu, TikTok, and Reels — hook formulas, emotional-curve design, per-shot storyboards, AI video prompts, editing rhythm, and a 复刻/改写 framework. Use when user asks for "short video script", "短视频脚本", "口播稿", "口播文案", "复刻这条视频", "改写这段文案", "视频分镜", "WeChat/Douyin/TikTok/XHS content", "social media video content".
-version: 0.8.0
+version: 0.9.0
 github: mebusw
 social: xhs@敏捷的申导, wechat@申导-敏捷教练
 email: mebusw@gmail.com
@@ -49,6 +49,7 @@ email: mebusw@gmail.com
 - [ ] 钩子读完的第一反应是「离谱」还是「可怜」？
 - [ ] 结尾是否有**唯一且具体**的互动指令（不是「欢迎关注」）？
 - [ ] 身份句是不是只有一句？后面有没有跟「这周刚接的活」这类补充说明？
+- [ ] 删掉身份句，情绪有没有掉？没掉就删掉——「我是个 FDE」经常是多余的自我介绍。
 - [ ] 开头第一句有没有用转折连词（可/但/却/结果）把两半撞在一起？
 
 ---
@@ -188,9 +189,14 @@ email: mebusw@gmail.com
 10 秒前必须完成四件事：
 1. **钩子**（0-3s）：反常识站住，≤16 字，念得完；
 2. **第二拍**（3-6s）：加码——数字 / 后果 / 怪细节三选一，把情绪推到 75+；
-3. **身份/设定**（6-8s）：压缩成**一句**，单集独立可看——这是刻意回落，必须紧跟回升。
-   - **只留身份本身，不加任何补充说明**：「我是个 FDE」就够，不要接「这周刚接的活」「今天想聊聊」「先介绍一下」。补充句会把回落拖长，身份一出现就往下走。
-4. **对立方的声音**（8-12s）：**吵架开关**——让对立方说一句荒谬但听起来很合理的话。这一拍是案例故事的前 10 秒必备，缺了就没有吵架感。
+3. **身份 / 情绪回落**（6-8s）：这一拍有三种处理，按优先级选——
+   - **默认：删掉身份句**。钩子读起来像「一个亲历者在吐槽」，观众自然知道你是谁；再补「我是个 FDE」就是多余铺垫，还会把回落拖长。
+   - 压成**一句**（≤5 秒）：钩子像「主持人在介绍节目」时才留：「我是个 FDE」就够，不要接「这周刚接的活」「今天想聊聊」。
+   - 放**系列片头 / 固定封面 / 合集简介**交代一次，全系列不再重复。
+   - 也可以把这一拍换成**共情下沉句**（"没人在意啊"），比身份句更留人。
+4. **对立方的声音**：**吵架开关**——让对立方说一句荒谬但听起来很合理的话。两种放法：
+   - 钩子**没有**对立面 → 必须 8-12s 让对方开口；
+   - 钩子**已经**含对立面（如"IT 提效顾系统"对"办事员的眼睛"）→ 对方的声音可以后移到 35-50s 谷段作佐证，不算晚。
 
 ### 前 10 秒增强四感（反差 / 猎奇 / 吵架 / 冲突）
 
