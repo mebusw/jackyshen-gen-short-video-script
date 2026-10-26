@@ -1,7 +1,7 @@
 ---
 name: jackyshen-gen-short-video-script
 description: Generate engaging short video scripts (15s-3min) for social media platforms like WeChat Channels, Douyin, Xiaohongshu, TikTok, and Reels — hook formulas, emotional-curve design, per-shot storyboards, AI video prompts, editing rhythm, and a 复刻/改写 framework. Use when user asks for "short video script", "短视频脚本", "口播稿", "口播文案", "复刻这条视频", "改写这段文案", "视频分镜", "WeChat/Douyin/TikTok/XHS content", "social media video content".
-version: 1.1.0
+version: 1.2.0
 github: mebusw
 social: xhs@敏捷的申导, wechat@申导-敏捷教练
 email: mebusw@gmail.com
@@ -576,6 +576,34 @@ Hook (5s) → Problem (10s) → Solution (60-120s) → Proof (15s) → Applicati
 
 
 
+
+### 12.5 作者口吻改写（套用角色卡）
+
+**语域先对号入座**：同一作者的口语与书面成稿是两套体系。现场口语 A 档（短句、句尾确认、填充词多）和演讲成稿 B 档（加顿号破折号、减填充词、几乎不设问）不能互换。**视频口播取 A 档，但去掉课堂专属的现场互动对象**。
+
+**事实优先级高于风格**：角色卡只提供表达方式，不提供事实、数字、案例、经历、立场。这些只能来自原文或用户材料，不得用角色卡补造。
+
+**A 档落到视频口播的 7 条**
+1. **短句砸点，长句铺陈**。一句话一个镜头，删掉书面长句的连接成分。
+2. **用"然后／好／其实／你看／这个"推进**，替掉"因此／从而／与此同时／换句话说"。
+3. **句尾确认降级成共识**（"对吧？""是不是"）：A 档每 7 句 1 次，视频里再减半，一篇 0-1 次。
+4. **同词紧邻重复做强调**（"就这么…""就是…""一次一次…"），不用更高级的形容词。
+5. **类比落到身体经验和日常物件**，把抽象概念换成能看见的东西。
+6. **强度天花板是"特别／非常／真的"**，不用"极其""强烈震撼"。
+7. **禁用**：赋能、闭环、抓手、颗粒度、范式、势能、生态、数字化转型、四字格排比、"不仅仅是…更是…"、"综上所述""总而言之"、感叹号、倍数表达（"快 3 倍"→"快得多"）。
+
+**只动表达，不动事实**：数字、归因、否定、范围、时间、完成状态、"可能／据称／仅／正在／计划"全部保留；不把相关改成因果，不把可能改成确定。
+
+**A 档的两个硬指标**：口播稿里的破折号和感叹号清零（A 档基线均为 0）。
+
+**交付前逐项核**
+- [ ] 句长呈双峰（短句砸点 + 长句铺陈），没有全是短句或全是长句
+- [ ] 书面连接词清零，替换为口语推进词
+- [ ] 句尾确认 ≤1 次
+- [ ] 破折号 0、感叹号 0
+- [ ] 禁词扫描为空
+- [ ] 数字、事实与原稿逐项一致（改写前后字数变化应在 ±5% 内）
+- [ ] 脱敏说明逐字未动
 
 ### 用户心理与互动
 
